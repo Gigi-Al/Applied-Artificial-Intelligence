@@ -8,3 +8,5 @@ Basic step overview : To set and get Camera use OpenCV using the VideoCapture().
 Submission: Every student is required to create a GitHub repository and only post the GitHub link on Canvas. The student is allowed to add all the resources to the created repository. One work document (readme file or pdf file) documenting the steps and either screenshots or video of the working project is a must. Kindly DO NOT make any file submissions on Canvas. The submission is supposed to be made under the “Assignment/Mid-Term Exam” section.
 
 Scoring: The score will be divided into two parts: i) first part is your code and submission on github. Uploading your codebase so that anyone can use them is a must-learn skill that you need to have; ii) class-demo: we will do live demo of your detection code in class on November 10th Thursday.
+
+In the provided notebook, all the steps are explained and by running the notebook you can see a demo of Mask RCNN running on live webcam feed.

@@ -10,7 +10,8 @@ Submission: Every student is required to create a GitHub repository and only pos
 Scoring: The score will be divided into two parts: i) first part is your code and submission on github. Uploading your codebase so that anyone can use them is a must-learn skill that you need to have; ii) class-demo: we will do live demo of your detection code in class on November 10th Thursday.
 
 ```diff
-In the provided notebook, all the steps are explained and by running the notebook you can see a demo of Mask RCNN running on live webcam feed.
+In the provided notebook, all the steps are explained and by running the notebook you can see a demo of Mask RCNN running on 
+live webcam feed.
 This work is based on awesome tutorials listed below:
 + https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw?usp=sharing#scrollTo=Fj9YcAnsT4B_
 + https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=8IRGo8d0qkgR

@@ -17,3 +17,4 @@ This work is based on awesome tutorials listed below:
 + https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=8IRGo8d0qkgR
 ```
 ![demo](https://user-images.githubusercontent.com/89472733/201168820-63487167-0498-4228-8d1d-9d586805a532.png)
+A screenshot of the project running on real time webcam feed on Google Colab.
